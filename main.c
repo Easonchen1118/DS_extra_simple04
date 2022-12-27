@@ -1,5 +1,5 @@
 #include <stdio.h>
-//停車費計算
+//停車費計算https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=30748
 int main(){
     int inhr, inmin;
     int outhr, outmin;
